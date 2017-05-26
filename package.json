@@ -1,0 +1,28 @@
+{
+  "name": "rafflo",
+  "version": "1.0.0",
+  "description": "fundraising made easy",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafflo/rafflo.git"
+  },
+  "author": "rafflo org",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafflo/rafflo/issues"
+  },
+  "homepage": "https://github.com/Rafflo/rafflo#readme",
+  "devDependencies": {
+    "express": "^4.15.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "lodash": "^4.17.4",
+    "path": "^0.12.7"
+  }
+}
