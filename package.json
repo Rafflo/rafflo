@@ -4,6 +4,7 @@
   "description": "fundraising made easy",
   "main": "index.js",
   "scripts": {
+    "knex":"knex",
     "start": "nodemon ./index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,7 +23,9 @@
   },
   "dependencies": {
     "body-parser": "^1.17.2",
+    "knex": "^0.13.0",
     "lodash": "^4.17.4",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "sqlite3": "^3.1.8"
   }
 }
