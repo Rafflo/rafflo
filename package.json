@@ -2,9 +2,6 @@
   "name": "rafflo",
   "version": "1.0.0",
   "description": "fundraising made easy",
-  "engines": {
-    "node": "6.9.4"
-  },
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./index",
@@ -14,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Rafflo/rafflo.git"
   },
-  "author": "rafflo org",
+  "author": "rafflo-org",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Rafflo/rafflo/issues"
