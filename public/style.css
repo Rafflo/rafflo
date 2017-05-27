@@ -1,0 +1,42 @@
+body {
+background-color: white;
+padding: 0;
+margin:0;
+}
+
+.container {
+padding: 2em;
+width: 100%;
+background-color: white;
+}
+
+.main-heading {
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+background-color: #E01A2B;
+width: 100%;
+padding: 2em;
+margin-bottom: 2em;
+}
+
+.intro {
+font-size: 2.5em;
+text-align: center;
+background-color: white;
+padding: 2em;
+}
+
+.btn {
+background-color: #333;
+color: white;
+margin-top: 1em;
+font-size: 1em;
+}
+
+.btn:hover {
+background-color: #E01A2B;
+}
+
+h2 {
+font-size: 1.5em;
+}
